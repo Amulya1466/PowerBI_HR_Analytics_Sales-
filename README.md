@@ -1,4 +1,4 @@
-# 📊 HR Analytics Dashboard | Power BI
+# 📊 HR Analytics Dashboard and Sales Dashboard | Power BI
 
 ## 📌 Project Overview
 
@@ -48,15 +48,152 @@ Employee attrition can significantly impact an organization's productivity and h
 - Average Job Satisfaction
 
 ---
+# 📊 Sales Performance Dashboard | Power BI
 
-## 🛠 Tools & Technologies Used
+## 📌 Project Overview
+
+This project presents an interactive Sales Performance Dashboard built using Microsoft Power BI. The dashboard provides business stakeholders with valuable insights into sales performance, profitability, customer behavior, and product trends to support data-driven decision-making.
+
+The objective of this project is to analyze historical sales data, identify business trends, monitor KPIs, and uncover opportunities to improve sales and profitability.
+
+---
+
+## 🎯 Business Problem
+
+Businesses generate large volumes of sales data every day. However, without proper analysis, it becomes difficult to understand:
+
+- Which products generate the highest revenue?
+- Which regions perform the best?
+- Which customers contribute the most sales?
+- How do sales and profits change over time?
+- What business strategies can improve profitability?
+
+This dashboard answers these business questions through interactive visualizations.
+
+---
+
+## 🛠️ Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
 - DAX (Data Analysis Expressions)
 - Data Modeling
-- Data Cleaning
+- Microsoft Excel (Dataset)
+
+---
+
+## 📂 Dashboard Pages
+
+### 1️⃣ Sales Performance Dashboard
+- Total Sales
+- Total Profit
+- Total Orders
+- Sales by Category
+- Sales by Region
+- Monthly Sales Trend
+- Top Performing Products
+
+### 2️⃣ Sales Trend & Forecast Dashboard
+- Monthly Sales Trend
+- Profit Trend
+- Forecast Analysis
+- Year-over-Year Performance
+- Seasonal Sales Analysis
+
+### 3️⃣ Exploratory Data Analysis (EDA)
+- Category Distribution
+- Customer Analysis
+- Regional Performance
+- Product Analysis
+- Sales Distribution
+
+---
+
+## 📈 Key KPIs
+
+- Total Sales
+- Total Profit
+- Profit Margin
+- Total Orders
+- Quantity Sold
+- Average Order Value
+
+---
+
+## 📊 Business Insights
+
+- Identified top-performing products contributing the highest revenue.
+- Analyzed regional sales performance to identify high-growth markets.
+- Monitored monthly sales trends to understand seasonal demand.
+- Compared profit and sales across product categories.
+- Evaluated customer purchasing patterns to identify valuable customers.
+
+---
+
+## 📌 Features
+
+- Interactive Filters & Slicers
+- Dynamic KPI Cards
+- Drill-down Visualizations
+- Forecast Analysis
+- Interactive Charts
+- Clean & User-Friendly Dashboard Design
+
+---
+
+## 📷 Dashboard Preview
+
+> Add screenshots of each dashboard page here.
+
+Example:
+
+```
+Dashboard_Images/
+│── Sales Dashboard.png
+│── Sales Trend Dashboard.png
+│── EDA Dashboard.png
+```
+
+---
+
+## 📁 Project Structure
+
+```
+Sales-Dashboard/
+│
+├── Sales Dashboard.pbix
+├── Dataset.xlsx
+├── Dashboard_Images/
+├── README.md
+└── Screenshots/
+```
+
+---
+
+## 🚀 Skills Demonstrated
+
+- Data Cleaning using Power Query
+- Data Modeling
+- DAX Measures
+- Dashboard Design
 - Data Visualization
+- Business Intelligence
+- Data Storytelling
+
+---
+
+## 📌 Future Improvements
+
+- Add Customer Segmentation Analysis
+- Implement Drill-through Pages
+- Add Dynamic Tooltips
+- Build Executive Dashboard
+- Include Advanced DAX Measures (YTD, YoY, MoM Growth)
+- Add Row-Level Security (RLS)
+
+---
+
+
 
 ---
 
@@ -114,9 +251,6 @@ Some insights obtained from the dashboard include:
 
 ---
 
-## 📸 Dashboard Preview
-
-> Add screenshots of your dashboard below.
 
 ### Overview Dashboard
 
@@ -187,8 +321,6 @@ Aspiring Data Analyst passionate about transforming raw data into actionable ins
 - Data Visualization
 - Business Intelligence
 
-📧 Email: your-email@example.com
-
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+📧 Email: amulyakankipati1234@gmail.com
 
 ⭐ If you found this project useful, please consider giving it a star!
